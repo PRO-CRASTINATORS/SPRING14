@@ -1,5 +1,3 @@
-// pavlo bilous branch changes
-
 
 public class Pavlo {
 

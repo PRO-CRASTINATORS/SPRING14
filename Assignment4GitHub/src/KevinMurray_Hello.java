@@ -1,5 +1,3 @@
-// pavlo bilous branch changes
-
 public class KevinMurray_Hello
 {
    public static void main(String [] args)
